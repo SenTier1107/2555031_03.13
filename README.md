@@ -6,6 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | **1주차** | 2026.03.13 | `모듈,패키지 실습파일`<br>`과제01_Rocket,Titanic.ipynb` | - 파이썬 모듈 시스템 및 패키지 구조화 실습<br>- 외부 API 호출을 통한 ETL 프로세스 구현 기초 |
 | **2주차** | 2026.03.20 | `python_class_faker,tom_jerry.ipynb`<br>`seaborntips.ipynb` | - 클래스(Class) 설계 및 객체지향 프로그래밍 실습<br>- Seaborn 라이브러리를 활용한 데이터 샘플링 실습 |
+| **3월 과제** | 2026.03 | [`EDA-Project_Blood-Donation-Analysis`](https://github.com/SenTier1107/EDA-Project_Blood-Donation-Analysis_2026) | - 헌혈 데이터 EDA 프로젝트<br>- 🔗 링크를 클릭하면 해당 프로젝트 저장소로 이동합니다 |
 | **3주차** | 2026.03.27 | `0327_REST_API_DataFrame_Gradio_Gemini.py` | - REST API를 활용한 웹 데이터 수집 및 서버 헤더 분석<br>- JSON 데이터 → Pandas DataFrame 변환 및 가공<br>- Gradio UI를 활용한 실시간 데이터 필터링 및 통계분석 대시보드 구현<br>- 서울시 공공자전거(따릉이) 3개월 데이터 병합 및 시각화<br>- Gemini AI(google.colab.ai)를 활용한 영→한 번역 서비스 구현 |
 | **분석 실습** | **-** | `customer_data_preprocessing.ipynb`<br>`Preprocessing_Skewed_Data_Transformation.ipynb`<br>`Standardization_Analysis_of_human_data.ipynb` | - 실무 데이터 클렌징 및 전처리 기법 학습<br>- 데이터 표준화 및 왜곡 데이터 변환 분석 |
 ---
