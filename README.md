@@ -9,6 +9,7 @@
 | **2주차** | 2026.03.20 | `python_class_faker,tom_jerry.ipynb`<br>`seaborntips.ipynb` | - 클래스(Class) 설계 및 객체지향 프로그래밍 실습<br>- Seaborn 라이브러리를 활용한 데이터 샘플링 실습 |
 | **3월 과제** | 2026.03 | [`EDA-Project_Blood-Donation-Analysis`](https://github.com/SenTier1107/EDA-Project_Blood-Donation-Analysis_2026) | - 헌혈 데이터 EDA 프로젝트<br>- 🔗 링크를 클릭하면 해당 프로젝트 저장소로 이동합니다 |
 | **3주차** | 2026.03.27 | `0327_REST_API_DataFrame_Gradio_Gemini.py` | - REST API를 활용한 웹 데이터 수집 및 서버 헤더 분석<br>- JSON 데이터 → Pandas DataFrame 변환 및 가공<br>- Gradio UI를 활용한 실시간 데이터 필터링 및 통계분석 대시보드 구현<br>- 서울시 공공자전거(따릉이) 3개월 데이터 병합 및 시각화<br>- Gemini AI(google.colab.ai)를 활용한 영→한 번역 서비스 구현 |
+| **4주차** | 2026.04.03 | `AppDev1_Web_Crawling_Scraping_Lab.ipynb` | - BeautifulSoup를 활용한 정적 웹사이트 크롤링 및 스크래핑<br>- Python I/O 유형(Text/Binary/Raw) 및 with 구문 실습<br>- Books to Scrape 사이트에서 카테고리별 도서 데이터 수집 및 정규분포 검정(Q-Q Plot, Shapiro-Wilk)<br>- quotes.toscrape 사이트 텍스트 마이닝 및 CountVectorizer 인코딩 실습 |
 | **분석 실습** | **-** | `customer_data_preprocessing.ipynb`<br>`Preprocessing_Skewed_Data_Transformation.ipynb`<br>`Standardization_Analysis_of_human_data.ipynb` | - 실무 데이터 클렌징 및 전처리 기법 학습<br>- 데이터 표준화 및 왜곡 데이터 변환 분석 |
 ---
 ## 🛠 Tech Stack
@@ -17,7 +18,7 @@
 ### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
 ### Web & AI
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-2B5B84?style=flat-square&logo=python&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-2B5B84?style=flat-square&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-444444?style=flat-square&logo=python&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ---
 ## 👤 Profile
 * **이름**: 이지원 (Jiwon Lee)
