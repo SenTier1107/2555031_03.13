@@ -1,4 +1,4 @@
-## Decision Tree & Ensemble Learning
+## Decision Tree & Ensemble Learning _ ( STUDY_NOTES )
 
 ## 1. Decision Tree
 
