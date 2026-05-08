@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## ML Model Web Service Deployment
 
 머신러닝 모델을 학습하고 FastAPI + Gradio로 웹 서비스로 배포하는 전체 과정을 정리한다.
