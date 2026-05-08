@@ -1,4 +1,4 @@
-# FastAPI + Gradio 웹 서비스 배포
+# FastAPI + Gradio 웹 서비스 배포 _ ( STUDY_NOTES )
 
 ## 1. 전체 구조
 
